@@ -1,6 +1,19 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Welcome to Note Taker",
+      "text": "Begin by clicking on the pencil icon in the right hand corner, create a title and note text, then click on the save button which pops up next to the pencil.",
+      "id": "0"
+    },
+    {
+      "title": "wefwef",
+      "text": "wwef",
+      "id": "1"
+    },
+    {
+      "title": "test note 1",
+      "text": "test note\n",
+      "id": "2"
     }
-]
+  ]
+}
